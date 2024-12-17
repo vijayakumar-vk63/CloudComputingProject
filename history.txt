@@ -1,0 +1,351 @@
+1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+    ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim
+   73  sudo apt-install vim
+   74  apt-install vim
+   75  sudo apt install vim 
+   76  sudo dpkg --configure -a
+   77  sudo apt install vim 
+   78  touch test.txt
+   79  ls
+   80  cd ..
+   81  ls
+   82  skacas
+   83  cd skacas
+   84  administrator
+   85  cd administrator
+   86  ls
+   87  cd Desktop
+   88  ls
+   89  cd home
+   90  ls
+   91  vim test.txt
+   92  cd /
+   93  ls
+   94  cd home
+   95  ls
+   96  administrator
+   97  cd administrator
+   98  ls
+   99  cd Desktop
+  100  ls
+  101  vim file.txt
+  102  touch vimtest.txt
+  103  vim vimtest.txt
+  104  nano vimtest.txt
+  105  grep "hi" vimtest.txt
+  106  grep -i vimtest.txt
+  107  grep -i "hellO" vimtest.txt
+  108  grep -i "h*" vimtest.txt
+  109  mkdir cloud 
+  110  cd cloud
+  111  touch file11.txt file22.txt
+  112  mv vimtest.txt
+  113  cd ..
+  114  mv vimtest.txt
+  115  mv vimtest.txt cloud
+  116  grep -i "^i" vimtest.txt
+  117  javac DigitalClock.java
+  118  grep "^i" vimtest.txt
+  119  cd cloud
+  120  grep "^i" vimtest.txt
+  121  grep -i "^i" vimtest.txt
+  122  cd ..
+  123  ls
+  124  grep -i "^i" vimtest.txt
+  125  grep -r "hi" cloud
+  126  clear
+  127  grep -r -l "hello" cloud
+  128  clear
+  129  c ..
+  130  c/ ..
+  131  clear
+  132  l=-["
+  133  "_ol;p';p
+  134  clear
+  135  ls 
+  136  cd cloud
+  137  grep "hi" vimtest.txt
+  138  grep "*i" vimtest.txt
+  139  grep "h*" vimtest.txt
+  140  grep "^welcome" vimtest.txt
+  141  cd ..
+  142  ls
+  143  grep -r "to" cloud
+  144  grep -r -l "to" cloud
+  145  grep -r -l "To" cloud
+  146  grep -r -l "to" cloud
+  147  grep -r -e cloud
+  148  cd ..
+  149  cd cloud
+  150  ls
+  151  cd Desktop
+  152  cd cloud
+  153  cat vimtest.txt
+  154  cat vimtest.txt | wc -l
+  155  grep "hi" vimtest.txt | wc -l
+  156  clear
+  157  cat vimtest.txt | wc -l
+  158  cat vimtest.txt | wc -w
+  159  cat vimtest.tx
+  160  cat vimtest.txt | wc -c
+  161  mkdir dir1 | filee.txt
+  162  nano
+  163  ls -ld
+  164  cat /etc/passwd
+  165  sudo chown administrator vimtest.txt
+  166  nano
+  167  cd ..
+  168  make dir1
+  169  mkdir dir1
+  170  ls -ld dir1
+  171  cat /etc/passwd
+  172  ls -ld dir1
+  173  userdel administrator
+  174  clear
+  175  cd /
+  176  ls
+  177  cd home
+  178  ls
+  179  cd adminstrator
+  180  cd administrator
+  181  ls
+  182  cd Desktop
+  183  ls
+  184  cd cloud
+  185  cd /
+  186  sudo useradd vijayakumar
+  187  cat /etc/passwd
+  188  sudo su vijayakumar
+  189  sudo passwd vijayakumar
+  190  su vijayakumar
+  191  clear
+  192  su vijayakumar
+  193  cd Desktop
+  194  ls
+  195  cd home
+  196  ls
+  197  cd administrator
+  198  ls
+  199  cd Desktop
+  200  ls
+  201  touch file@.txt
+  202  su vijayakumar
+  203  userdel vijayakumar
+  204  sudo userdel vijayakumar
+  205  cat /etc/passwd
+  206  sudo userdel -f vijayakumar
+  207  cat /etc/passwd
+  208  clear
+  209  cd /
+  210  su vijayakumar
+  211  touch file@.txt
+  212  su vijayakumar
+  213  su administator
+  214  su administrator
+  215  game play 
+  216  play the run game
+  217  clear
+  218  cd /
+  219  cd Desktop
+  220  ls
+  221  cd home
+  222  ls
+  223  cd administrator
+  224  cd Desktop
+  225  cilear\
+  226  '''''''nZXcvgbhjkjhgfdsa\
+  227  clear
+  228  nano 
+  229  clear
+  230  nano script.txt
+  231  nano
+  232  nano script.sh
+  233  cd /
+  234  ls
+  235  cd home
+  236  ls
+  237  cd administrator
+  238  ls
+  239  cd Desktop
+  240  nano script.sh
+  241  chmod +x script.sh
+  242  ./script.sh
+  243  nano script.sh
+  244  nano script1.sh
+  245  chmod +x script1.sh
+  246  ./script1.sh
+  247  nano script1.sh
+  248  chmod +x script1.sh
+  249  nano script1.sh
+  250  ./script1.sh
+  251  nano script1.sh
+  252  chmod +x script1.sh
+  253  nano script1.sh
+  254  nano script2.sh
+  255  chmod +x script2.sh
+  256  ./script2.sh
+  257  nano script2.sh
+  258  ./script2.sh
+  259  nano script2.sh
+  260  ./script2.sh
+  261  top
+  262  =
+  263  cd /
+  264  ls
+  265  cd home
+  266  ls
+  267  cd administrator
+  268  cd 
+  269  ls 
+  270  cd Desktop
+  271  nano script2.sh
+  272  cd /
+  273  sudo apt update
+  274  sudo apt install git
+  275  git--version
+  276  git --version
+  277  cd /
+  278  ls
+  279  cd home
+  280  ls
+  281  cd administrator
+  282  ls
+  283  cd Desktop
+  284  git --version
+  285  clear
+  286  git --version
+  287  ls
+  288  cd cloud
+  289  git init
+  290  git config --list
+  291  git config --global user.name 
+  292  git config --global user.name "vijayakumar"
+  293  git config 
+  294  git config --global init.defaultbranch main
+  295  git config --global init.defaultBranch
+  296  git config --list
+  297  git config --global user.email "vijayveerakumar12@gmail.com
+  298  git config --global user.email "vijayveerakumar12@gmail.com
+  299  git config --lis
+  300  git config --global core.eol if
+  301  git config --list
+  302  git config --global core.eol lf
+  303  git config --list
+  304  git config --global core.ignorecase ture
+  305  git config --list
+  306  git config --global core.autocrlf input
+  307  git config --list
+  308  git config --global user.email "vijayveerakumar12@gmail.com
+  309  git config --list
+  310  git config --global user.email vijayveerakumar12@gmail.com
+  311  git config --list
+  312  cd ..
+  313  cd cloud
+  314  clear
+  315  git config --list
+  316  ls
+  317  git clone https://github.com/vijayakumar-vk63/democloud.git
+  318  ls
+  319  git clone https://github.com/vijayakumar-vk63/democloud.git
+  320  git config --global --unset core.ignorecase
+  321  git clone https://github.com/vijayakumar-vk63/democloud.git
+  322  ls
+  323  cd democloud
+  324  ls
+  325  touch filee.txt
+  326  ls
+  327  git add filee.txt
+  328  cat > filee.txt
+  329  git commit -m "first commit"
+  330  git status
+  331  git add filee.txt
+  332  git status
+  333  git commit -m "second commit"
+  334  git status
+  335  git push origin main
+  336  ][[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[][]][[[][][[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]][][][][][][][][][][][][][][][][][]][][][][][][][][]
+  337  clear
+  338  power off
+  339  clear
+  340  git remote -v
+  341  git remote set-url origin "https://ghp_rfFhNQP4iZhRD5ZZ8kE9xomzEVVY1j2QEgie@github.com/vijayakumar/democloud"
+  342  git remote -v
+  343  git status
+  344  git push origin main
+  345  git remote set-url origin "https://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@github.com/vijayakumar/democloud"
+  346  git push origin main
+  347  git remote set-url origin "https://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@github.com/vijayakumar-vk63/democloud"
+  348  git push origin main
+  349  git clone "https://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@github.com/vijayakumar-vk63/democloud"
+  350  git push origin main
+  351  cd ..
+  352  mkdir test
+  353  git remote -v
+  354  git config --global user.name "cloud"
+  355  cd test
+  356  cat > test.txt
+  357  cat test.txt
+  358  git remote set-url origin "https://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@github.com/vijayakumar-vk63/cloud"
+  359  git init
+  360  git clone "https://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@github.com/vijayakumar-vk63/cloud"
+  361  git push origin main
+  362  git clone "https://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@github.com/vijayakumar-vk63/cloud"
+  363  git clone "https://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@github.com/vijayakumar-vk63/cloud.git"
+  364  git remote -v
+  365  git remote set-url origin "https://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@github.com/vijayakumar-vk63/cloud"
+  366  cd /
+  367  ls
+  368  cd home
+  369  ls
+  370  cd administrator
+  371  ls
+  372  cd Desktop
+  373  ls
+  374  cd Project
+  375  ls\
+  376  cd cdp_data
+  377  ls
+  378  nano script.sh
+  379  ./script.sh
+  380  chmod +x script,sh
+  381  ./script.sh
+  382  nano script.sh
+  383  ./script.sh
+  384  nano script.sh
+  385  ./script.sh
+  386  chmod 777 script.sh
+  387  ll script.sh
+  388  ./script.sh
+  389  nano script.sh
+  390  ./script.sh
+  391  nano script.sh
+  392  ./script.sh
+  393  ll
+  394  grep "for" script.sh
+  395  grep -i "for" script.sh
+  396  grep-i "for" script.sh
+  397  grep -i "for"
+  398  cat > filee.txt
+  399  grep "hi" filee.txt
+  400  mkdir  user 
+  401  cd user
+  402  touch user_1
+  403  cd ..
+  404  ls
+  405  vim sample
+  406  grep .txt
+  407  grep .csv
+  408  history
